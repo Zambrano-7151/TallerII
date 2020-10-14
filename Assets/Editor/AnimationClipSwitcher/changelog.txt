@@ -1,0 +1,11 @@
+V 1.1.0:
+	- Adding curves management
+	- Adding Overall TimeLine Management options : Makes you manage change in durations
+		-> Ratio : Use a ratio between durations to move curves and events during transfer
+		-> Last Frame : Last frame events and curves will stay on the last frame
+		-> None	: Events and curves timeline won't be changed during transfer	
+	- Changed visual aspect of the editor
+	- Added more options for events management
+
+
+V 1.0.0: FIRST RELEASE
